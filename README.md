@@ -21,7 +21,7 @@ This is a simple Weather Forecast App built using React.js and Bootstrap. The ap
 1. Clone this repository to your local machine:
 
    ```sh
-   git clone https://github.com/your-username/weather-forecast-app.git
+   git clone https://github.com/AbeMaker/Weather-Forecast-App.git
    cd weather-forecast-app
 
 Install the required dependencies:
