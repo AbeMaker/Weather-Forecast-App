@@ -21,20 +21,29 @@ This is a simple Weather Forecast App built using React.js and Bootstrap. The ap
 1. Clone this repository to your local machine:
 
    ```sh
+
    git clone https://github.com/AbeMaker/Weather-Forecast-App.git
+
    cd weather-forecast-app
 
 Install the required dependencies:
+
 npm install
+
 The app will be accessible at http://localhost:3000.
 
 API Key
+
 You need to sign up on the OpenWeatherMap website to get an API key. Replace 'YOUR_API_KEY' in the App.js file with your actual API key.
 
 Credits
+
 React - JavaScript library for building user interfaces.
+
 Bootstrap - CSS framework for responsive design.
+
 OpenWeatherMap API - Provides weather data.
+
 Create React App - Boilerplate setup for React applications.
 
 Feel free to customize and enhance this app further to meet your requirements. Happy coding!
